@@ -65,7 +65,7 @@ A full-stack inspection system with:
 ---
 
 ## 📊 GitHub Stats
-![Sadik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sadikcserymec077&show_icons=true&theme=default)
+![Sadik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sadikcserymec077&show_icons=true&theme=radical)
 
 ---
 
