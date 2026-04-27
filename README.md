@@ -73,4 +73,4 @@ A full-stack inspection system with:
 
 ---
 
-⭐️ From Mohammad Sadik: https://github.com/Sadikcserymec077  
+⭐️ From Mohammad Sadik
