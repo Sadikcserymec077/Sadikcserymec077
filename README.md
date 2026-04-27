@@ -3,7 +3,7 @@
 🎓 Computer Science and Engineering Student at RYM Engineering College  
 💡 Passionate about Full-Stack Development, Real-Time Systems, and AI Integration  
 🌱 Currently exploring Java Backend Development  
-🏆 Solved 250+ problems on LeetCode  
+🏆 Secured 2nd Place in a competitive Web Development event
 
 ---
 
