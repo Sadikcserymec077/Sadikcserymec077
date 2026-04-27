@@ -11,8 +11,10 @@
 🔭 I’m working on full-stack web applications with a strong focus on backend development and scalability  
 🌐 Interested in real-time systems, system design, and AI-based applications  
 💬 Ask me about Node.js, REST APIs, authentication systems, and databases  
-📫 Reach me at sadik.cse.rymec@gmail.com  
-💼 LinkedIn | GitHub  
+## 📫 Connect with Me
+- 💼 LinkedIn: https://www.linkedin.com/in/k-mohammad-sadik  
+- 💻 GitHub: https://github.com/Sadikcserymec077  
+- 📧 Email: sadik.cse.rymec@gmail.com
 
 ---
 
