@@ -102,7 +102,7 @@ A full-stack crowdfunding platform with campaign management, donations, and real
 - 🥈 **2nd Place** — Web Development Competition
 - 🏁 **Finalist** — Brains & Bytes-25 Hackathon
 - ☁️ **Oracle Cloud Infrastructure 2025 Certified DevOps Professional**
-- 💡 **300+ problems** solved on [LeetCode](https://leetcode.com/u/MohammedSadiq77/)
+- 💡 **350+ problems** solved on [LeetCode](https://leetcode.com/u/MohammedSadiq77/)
 
 ---
 
